@@ -70,7 +70,7 @@
         <img src="https://img.shields.io/github/followers/ballalamit?label=Followers&style=social" alt="GitHub Badge">
     </a>
     <hr />
-    <h2><a href="https://ballalamit.github.io/">🌍 | Portfolio </a></h2>
+    
 
 <!--
 **ballalamit/ballalamit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
